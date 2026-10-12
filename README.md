@@ -5,21 +5,22 @@
 </div>
 
 <h2>About Me</h2>
-<p> I am a Computer Science major interested in networks and cybersecurity. First Freshman TA at my university in recent years. Currently, a TA for a Unix command line class (previously a data structures class). I plan on pursuing a Master's Degree in the field. I want to get involved with more projects in the future and I love collaborative work. Online I go by the pseudonym themothershipp and (sometimes) Anđeo. I don't live in Croatia, but I am part Croat 🇭🇷. 
+<p> I am a Computer Science major interested in networks and cybersecurity. First Freshman TA at my university in recent years. Currently, a TA for a Unix command line class (previously a data structures class). I plan on pursuing a Master's Degree in the field. I want to get involved with more projects in the future and I love collaborative work. Online I go by the pseudonym themothershipp and (sometimes) Anđeo. I don't live in Croatia, but I am part Croat 🇭🇷 and like celecrating my culture. 
 </p>
 
 <!-- Projects -->
-<h2>Recent Projects - Last Updated 29/09/26</h2>
+<h2>Recent Projects - Last Updated 11/10/2026</h2>
 
 <div align="center">
 
-| Project                                                                            | GitHub                                                                       | Status          |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------- |
-| [Logic Gates Website](https://lmu-cmsi2021-fall2026.github.io/spa-themothershipp/) | 🗂 [Repository](https://github.com/lmu-cmsi2021-fall2026/spa-themothershipp) | 🏁 Completed    |
-| Computer Systems Org                                                               | 🗂 [Repository](https://github.com/Themothershipp/CMSI-2210_MuhlSchulein)    | ✅ Active       |
-| My Flipper Zero Projects                                                           | 🗂 [Repository](https://github.com/Themothershipp/RandomFlipperZeroProjects) | 🪜 More To Come |
-| About Me Website                                                                   | ❌ Private                                                                   | 🚧 Just Started |
-| Cryptography Website                                                               | ❌ Private                                                                   | 📆 Planned      |
+| Project                                                                                                | GitHub                                                                                      | Status          |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | --------------- |
+| [Logic Gates Website](https://lmu-cmsi2021-fall2026.github.io/spa-themothershipp/)                     | 🗂 [Repository](https://github.com/lmu-cmsi2021-fall2026/spa-themothershipp)                | 🏁 Completed    |
+| [First API Backed Website](https://lmu-cmsi2021-fall2026.github.io/generic-api-backed-themothershipp/) | 🗂 [Repository](https://github.com/lmu-cmsi2021-fall2026/generic-api-backed-themothershipp) | 🏁 Completed    |
+| Computer Systems Org                                                                                   | 🗂 [Repository](https://github.com/Themothershipp/CMSI-2210_MuhlSchulein)                   | ✅ Active       |
+| My Flipper Zero Projects                                                                               | 🗂 [Repository](https://github.com/Themothershipp/RandomFlipperZeroProjects)                | 🪜 More To Come |
+| About Me Website                                                                                       | ❌ Private                                                                                  | 🚧 Just Started |
+| Cryptography Website                                                                                   | ❌ Private                                                                                  | 📆 Planned      |
 
 <!-- Statuses
 🗂 [Repository]()
